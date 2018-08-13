@@ -1,3 +1,8 @@
+<?php
+header("Access-Control-Allow-Origin: *")
+header("content-Type:ap")
+       
+?>
 {
   "profiles": [
     { "id": 1, "name": "john", "age": 21 },
